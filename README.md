@@ -43,4 +43,4 @@ This project controls a servo motor and a motor driver using Arduino. The progra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+   git clone https://github.com/Yodhaardiansyah/robot-transport-servo-and-motor-control
